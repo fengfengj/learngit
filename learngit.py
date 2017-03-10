@@ -2,3 +2,4 @@
 
 first = "hello word!!!"
 print(first)
+print(first)
